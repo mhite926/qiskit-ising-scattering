@@ -10,8 +10,8 @@
 
 # Julia Simulations:
 - ising-tebd-trunc.ipynb - TEBD simulations of our truncated wavepackets. I copy and paste the necessary Givens angles from givens-angles.ipynb.
-- ising-tebd-ipynb = TEBD simulations of full wavepackets.
-- ising-tebd-approx.ipnb - Nearly identical to file above, just with $\sigma^- \rightarrow \sigma^x$ in the state preparation. No longer needed, but it was enlightening to see the effect.
+- ising-tebd.ipynb - TEBD simulations of full wavepackets.
+- ising-tebd-approx.iypnb - Nearly identical to file above, just with $\sigma^- \rightarrow \sigma^x$ in the state preparation. No longer needed, but it was enlightening to see the effect.
 - tebd-analysis.ipynb - Used to plot Julia data.
 
 # Old Files
